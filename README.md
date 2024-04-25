@@ -8,6 +8,6 @@
 
 ### Important Commands
 - Run app:
-  - *** yarn start ***
+  - ***yarn start***
 - Run tests:
-  - *** yarn test ***
+  - ***yarn test***
