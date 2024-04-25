@@ -19,10 +19,8 @@ function App() {
         starting from one on each reload{" "}
       </p>
       <h2> Example </h2>
-      <div className="card">
-        <p> current in sequence is 1 </p> {"onclick =>"}{" "}
-        <p> current in sequence is 1</p> {"onclick =>"}{" "}
-        <p> current in sequence is 2</p>
+      <div className="card sm-padding row">
+        <p className="example-text"> If the current in sequence is 1 clicking the button will return 1, after clicking the button again it should return 2</p> 
       </div>
       <div className="card">
         <p> Click the button below</p>
