@@ -10,9 +10,6 @@
     "test-without-watch": "react-scripts test --watchAll=false",
     "eject": "react-scripts eject"
   },
-  "pre-commit": [
-    "test"
-  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -22,7 +19,6 @@
     "@types/react": "^18.2.79",
     "@types/react-dom": "^18.2.25",
     "chai": "^5.1.0",
-    "pre-commit": "^1.2.2",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",
     "react-scripts": "5.0.1",
