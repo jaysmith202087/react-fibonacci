@@ -11,7 +11,7 @@
     "eject": "react-scripts eject"
   },
   "pre-commit": [
-    "test-without-watch"
+    "test"
   ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
