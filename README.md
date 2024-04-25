@@ -1,5 +1,5 @@
 ## React-fibonacci
-  This project is just a quick example of my work.  In this project I am using a button to get the next number in a fibonacci sequence.
+  This project is just a quick example of my ability to work with react.  In this project I am using a button to get the next number in a fibonacci sequence.
 
 ### Installation instructions
 - Clone the repository
